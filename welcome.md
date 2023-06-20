@@ -16,4 +16,6 @@ CodeIgniter 4 veritabanı olarak MySQLi, Postgre, SQLite3, SQLSRV ve OCI8 destek
 
 CodeIgniter 4 yüklemek için [CodeIgniter](https://www.codeigniter.com/) offical sitesi üzerinden Download diyerek CodeIgniter 4 sürümünü indirin. İndirmenin ardından zip dosyası içerisinde CodeIgniter 4 dosyaların ve klasörlerin bulunduğu app, assets, system vb. bulunduğu tüm dosya ve klasörleri ilgili çalışma alanınıza (ilgilli php kodlarınızı yazdığınız klasör dizinine Örn: xampp için sürücü\xampp\htdocs klasörünün içerisine) kolyalayın. Bu kurulum aşaması ilgili CodeIgniter orjinal dökümanının [linki](https://www.codeigniter.com/user_guide/installation/installing_manual.html) 
 
+Güncelleme işlemi için ise sadece indireceğiniz CodeIgniter klasörü içerisindeki system klasörünü almanız yeterli olacaktır. Diğer başka bir dosya veya klasörü değiştirmenize gerek yoktur. Kendi dizininizde bulunan CodeIgniter system klasörünü silin ve indirmiş olduğunuz dosya içerisindeki system klasörünü sildiğiniz klasör yerine kopyalayın bu kadar.
+
 
